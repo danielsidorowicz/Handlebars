@@ -1,0 +1,22 @@
+.h1_index {
+    color: black;
+    text-decoration: underline;
+}
+
+.h1_login {
+    color: blue;
+    background-color: lightgray;
+}
+
+.lorem {
+    color: blue;
+    background-color: lightgray;
+
+}
+
+.stopka {
+    border-top: 1px solid gray;
+    background-color: lightgray;
+    color: gray;
+    text-align: center;
+}
